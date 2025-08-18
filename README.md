@@ -5,8 +5,8 @@ Features
 - Update existing product
 - Delete items from the inventory
 
-Backend: Django
-Frontend: HTML, Bootstrap5
-Database: SQLite3 (default database)
+- Backend: Django
+- Frontend: HTML, Bootstrap5
+- Database: SQLite3 (default database)
 
 Simple and user-friendly interface
